@@ -145,6 +145,7 @@ var pipeline = new ResiliencePipelineBuilder()
 | Package | Description |
 |---|---|
 | [PollyBackoff](https://www.nuget.org/packages/PollyBackoff) | Backoff delay strategies |
+| [PollyMediatR](https://www.nuget.org/packages/PollyMediatR) | Polly v8 pipelines for MediatR request handlers |
 | [PollyHealthChecks](https://www.nuget.org/packages/PollyHealthChecks) | ASP.NET Core health check integration |
 | [PollyCaching](https://www.nuget.org/packages/PollyCaching) | Caching resilience strategy |
 | [PollyBulkhead](https://www.nuget.org/packages/PollyBulkhead) | Bulkhead isolation |
