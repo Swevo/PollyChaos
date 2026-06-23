@@ -167,6 +167,8 @@ If PollyChaos helps you ship more resilient software, consider supporting the pr
 
 > 💼 **Need .NET resilience help?** Visit [solidqualitysolutions.com](https://solidqualitysolutions.com/) for consulting and architecture services.
 
+| [PollyRabbitMQ](https://www.nuget.org/packages/PollyRabbitMQ) | Polly v8 resilience for RabbitMQ.Client channels |
+
 ## License
 
 MIT
