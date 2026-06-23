@@ -10,8 +10,9 @@
     <PackageId>PollyChaos</PackageId>
     <Version>1.0.0</Version>
     <Authors>Justin Bannister</Authors>
-    <Description>Chaos engineering and fault-injection resilience strategies for Polly v8 pipelines. Inject faults, latency, and results at a configurable rate to harden your services against failure — the spiritual successor to Polly.Contrib.Simmy for Polly v8.</Description>
-    <PackageTags>polly;chaos;fault-injection;resilience;simmy;chaos-engineering;testing;latency;dotnet;aspnetcore</PackageTags>
+    <Description>Chaos engineering and fault-injection resilience strategies for Polly v8 pipelines. Inject faults and latency at a configurable rate to harden your services against failure. The Simmy-style chaos companion for Polly v8 — supports fault injection, latency injection, and per-call injection rates with an Enabled toggle for feature-flag control.</Description>
+    <PackageTags>polly;chaos;fault-injection;resilience;simmy;chaos-engineering;Fault;Exception;Handling;Transient;latency;dotnet;aspnetcore;polly-v8;chaos-monkey;testing;circuit-breaker;retry</PackageTags>
+    <PackageReleaseNotes>1.0.0: Initial release. Fault injection (AddChaosFault) and latency injection (AddChaosLatency) for Polly v8 resilience pipelines. Supports net6.0, net8.0, and net9.0.</PackageReleaseNotes>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/Swevo/PollyChaos</RepositoryUrl>
