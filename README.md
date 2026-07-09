@@ -5,6 +5,7 @@
 [![NuGet](https://img.shields.io/nuget/v/PollyChaos.svg)](https://www.nuget.org/packages/PollyChaos)
 [![NuGet Downloads](https://img.shields.io/nuget/dt/PollyChaos.svg)](https://www.nuget.org/packages/PollyChaos)
 [![CI](https://github.com/Swevo/PollyChaos/actions/workflows/build.yml/badge.svg)](https://github.com/Swevo/PollyChaos/actions/workflows/build.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **Chaos engineering for Polly v8.** Inject faults and latency into your resilience pipelines to prove your system handles failures gracefully — before production does it for you.
 
